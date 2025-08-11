@@ -11,6 +11,9 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="kotlin" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
+<a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a></p>
+<a target="_blank" href="https://static.cdnlogo.com/logos/n/80/next-js.svg" style="display: inline-block;"><img src="https://static.cdnlogo.com/logos/n/80/next-js.svg" alt="mssql" width="42" height="42" /></a></p>
 
 </p><br>
 
