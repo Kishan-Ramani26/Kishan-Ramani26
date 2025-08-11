@@ -13,7 +13,13 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="kotlin" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
 <a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a></p>
-<a target="_blank" href="https://logo.svgcdn.com/l/nextjs-icon.svg" style="display: inline-block;"><img src="https://logo.svgcdn.com/l/nextjs-icon.svg" alt="mssql" width="42" height="42" /></a></p>
+<a target="_blank" href="https://logo.svgcdn.com/l/nextjs-icon.svg" style="display: inline-block;"><img src="https://logo.svgcdn.com/l/nextjs-icon.svg" alt="NEXT.JS" width="42" height="42" /></a>
+<a target="_blank" href="https://static.cdnlogo.com/logos/g/31/gsap-greensock.svg" style="display: inline-block;"><img src="https://static.cdnlogo.com/logos/g/31/gsap-greensock.svg" alt="gsap" width="42" height="42" /></a>
+<a target="_blank" href="https://logo.svgcdn.com/l/php.svg" style="display: inline-block;"><img src="https://logo.svgcdn.com/l/php.svg" alt="PHP" width="42" height="42" /></a>
+<a target="_blank" href="https://logo.svgcdn.com/l/bootstrap.svg" style="display: inline-block;"><img src="https://logo.svgcdn.com/l/bootstrap.svg" alt="PHP" width="42" height="42" /></a>
+
+  
+  </p>
 
 </p><br>
 
