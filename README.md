@@ -1,7 +1,11 @@
 ## I'm Kishan👋
 
-<img alt="my status" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kishan-Ramani26&show_icons=true&theme=dark" /><br>
-<img alt="most used Language " align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan-Ramani26&show_icons=true&theme=dark&layout=compact"/><br>
+<p><img alt="my status" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kishan-Ramani26&show_icons=true&theme=dark" /></p>
+<br>
+<p>
+<img alt="most used Language " align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan-Ramani26&show_icons=true&theme=dark&layout=compact"/>
+</p>
+<br>
 
 <br><h2>🚀 Languages and Tools I Use</h2><br>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
