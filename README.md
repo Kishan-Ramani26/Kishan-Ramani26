@@ -1,6 +1,6 @@
 ## I'm Kishan👋
 
-<img alt="my status" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kishan-Ramani26&show_icons=true&theme=dark" />
+<img alt="my status" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kishan-Ramani26&show_icons=true&theme=dark" /><br>
 <img alt="most used Language " align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan-Ramani26&show_icons=true&theme=dark&layout=compact"/><br>
 
 <br><h2>🚀 Languages and Tools I Use</h2><br>
@@ -17,11 +17,7 @@
 <a target="_blank" href="https://static.cdnlogo.com/logos/g/31/gsap-greensock.svg" style="display: inline-block;"><img src="https://static.cdnlogo.com/logos/g/31/gsap-greensock.svg" alt="gsap" width="42" height="42" /></a>
 <a target="_blank" href="https://logo.svgcdn.com/l/php.svg" style="display: inline-block;"><img src="https://logo.svgcdn.com/l/php.svg" alt="PHP" width="42" height="42" /></a>
 <a target="_blank" href="https://logo.svgcdn.com/l/bootstrap.svg" style="display: inline-block;"><img src="https://logo.svgcdn.com/l/bootstrap.svg" alt="PHP" width="42" height="42" /></a>
-
-  
-  </p>
-
-</p><br>
+</p>
 
 <br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kishan-Ramani26&" alt="Kishan-Ramani26" /></p><br>
 <br><p><a href="https://github.com/Kishan-Ramani26/"><img src="https://github-profile-trophy.vercel.app/?username=Kishan-Ramani26" alt="Kishan-Ramani26" /></a></p>
