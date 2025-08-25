@@ -27,5 +27,5 @@
 
 
 <p>
-![Ravi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kishan-Ramani26&bg_color=000000&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishan-Ramani26&bg_color=000000&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" />
 </p>
