@@ -24,3 +24,8 @@
 
 <br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kishan-Ramani26&show_icons=true&theme=dark" alt="Kishan-Ramani26" /></p><br>
 <br><p><a href="https://github.com/Kishan-Ramani26/"><img src="https://github-profile-trophy.vercel.app/?username=Kishan-Ramani26&show_icons=true&theme=dark" alt="Kishan-Ramani26" /></a></p>
+
+
+<p>
+![Ravi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kishan-Ramani26&bg_color=000000&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true)
+</p>
