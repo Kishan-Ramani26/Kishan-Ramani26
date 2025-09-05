@@ -1,12 +1,26 @@
 ## I'm Kishan   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<p><img alt="my status" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kishan-Ramani26&show_icons=true&theme=dark" /></p>
-<p>
-<img alt="Top Used Languages"  align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan-Ramani26&title_color=00BFFF&text_color=FFFFFF&bg_color=000000" />
-</p>
-<br>
 
-<br><h2>🚀 Languages and Tools I Use</h2><br>
+<table>
+<tr>
+  <td>
+    <p><img alt="my status" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kishan-Ramani26&show_icons=true&theme=dark" /></p>    
+     <p>
+      <img alt="Top Used Languages"  align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan-Ramani26&title_color=00BFFF&text_color=FFFFFF&bg_color=000000" />
+    </p>  
+  </td>
+</tr>
+
+ <tr>
+  <td>
+    <h2>🚀 Languages and Tools I Use</h2>
+  </td>   
+ </tr> 
+ <tr>
+   <td>
+     <br>
+
+
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
@@ -21,11 +35,19 @@
 <a target="_blank" href="https://logo.svgcdn.com/l/php.svg" style="display: inline-block;"><img src="https://logo.svgcdn.com/l/php.svg" alt="PHP" width="42" height="42" /></a>
 <a target="_blank" href="https://logo.svgcdn.com/l/bootstrap.svg" style="display: inline-block;"><img src="https://logo.svgcdn.com/l/bootstrap.svg" alt="PHP" width="42" height="42" /></a>
 </p>
+   </td>
+ </tr>
 
-<br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kishan-Ramani26&show_icons=true&theme=dark" alt="Kishan-Ramani26" /></p><br>
-<br><p><a href="https://github.com/Kishan-Ramani26/"><img src="https://github-profile-trophy.vercel.app/?username=Kishan-Ramani26&show_icons=true&theme=dark" alt="Kishan-Ramani26" /></a></p>
-
-
-<p>
+ <tr>
+   <td>
+<br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kishan-Ramani26&show_icons=true&theme=dark" alt="Kishan-Ramani26" /></p><br>     
+   </td>
+ </tr>
+ <tr>
+   <td>
+     <br><p><a href="https://github.com/Kishan-Ramani26/"><img src="https://github-profile-trophy.vercel.app/?username=Kishan-Ramani26&show_icons=true&theme=dark" alt="Kishan-Ramani26" /></a></p>
+   </td>
+ </tr>
+</table>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishan-Ramani26&bg_color=000000&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" />
 </p>
