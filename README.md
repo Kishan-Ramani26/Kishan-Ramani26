@@ -2,7 +2,7 @@
 
 <p><img alt="my status" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kishan-Ramani26&show_icons=true&theme=dark" /></p>
 <p>
-![Top Langs]<img alt="Top Used Languages"  align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan-Ramani26&title_color=00BFFF&text_color=FFFFFF&bg_color=000000" />
+<img alt="Top Used Languages"  align="right" width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan-Ramani26&title_color=00BFFF&text_color=FFFFFF&bg_color=000000" />
 </p>
 <br>
 
