@@ -23,3 +23,7 @@
 [![](https://visitcount.itsvg.in/api?id=Kishan-Ramani26&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Row 3: Activity Graph -->
+![Kishan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kishan-Ramani26&bg_color=000000&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true)
+
