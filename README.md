@@ -1,53 +1,27 @@
-## I'm Kishan   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kishan Ramani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kishanramani269@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kishan-Ramani&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Kishan-Ramani&theme=blue_navy&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan-Ramani&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kishan-Ramani&theme=blue_navy&no-frame=true&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Kishan-Ramani&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Kishan-Ramani&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<table>
-<tr>
-  <td>
-    <p><img alt="my status" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kishan-Ramani26&show_icons=true&theme=dark" /></p>    
-     <p>
-      <img alt="Top Used Languages"  align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan-Ramani26&title_color=00BFFF&text_color=FFFFFF&bg_color=000000" />
-    </p>  
-  </td>
-</tr>
-
- <tr>
-  <td>
-    <h2>🚀 Languages and Tools I Use</h2>
-  </td>   
- </tr> 
- <tr>
-   <td>
-     <br>
-
-
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="kotlin" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a></p>
-<a target="_blank" href="https://logo.svgcdn.com/l/nextjs-icon.svg" style="display: inline-block;"><img src="https://logo.svgcdn.com/l/nextjs-icon.svg" alt="NEXT.JS" width="42" height="42" /></a>
-<a target="_blank" href="https://static.cdnlogo.com/logos/g/31/gsap-greensock.svg" style="display: inline-block;"><img src="https://static.cdnlogo.com/logos/g/31/gsap-greensock.svg" alt="gsap" width="42" height="42" /></a>
-<a target="_blank" href="https://logo.svgcdn.com/l/php.svg" style="display: inline-block;"><img src="https://logo.svgcdn.com/l/php.svg" alt="PHP" width="42" height="42" /></a>
-<a target="_blank" href="https://logo.svgcdn.com/l/bootstrap.svg" style="display: inline-block;"><img src="https://logo.svgcdn.com/l/bootstrap.svg" alt="PHP" width="42" height="42" /></a>
-</p>
-   </td>
- </tr>
-
- <tr>
-   <td>
-<br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kishan-Ramani26&show_icons=true&theme=dark" alt="Kishan-Ramani26" /></p><br>     
-   </td>
- </tr>
- <tr>
-   <td>
-     <br><p><a href="https://github.com/Kishan-Ramani26/"><img src="https://github-profile-trophy.vercel.app/?username=Kishan-Ramani26&show_icons=true&theme=dark" alt="Kishan-Ramani26" /></a></p>
-   </td>
- </tr>
-</table>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishan-Ramani26&bg_color=000000&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishan-Ramani26&bg_color=000000&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" />
